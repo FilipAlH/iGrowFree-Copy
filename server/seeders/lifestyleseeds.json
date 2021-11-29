@@ -1,0 +1,86 @@
+[
+    {
+        "lifeStyleType": "Athletic",
+        "LifeStyleHabits": [
+            {
+                "habitName": "Weight lifting",
+                "frequency": 3
+            },
+            {
+                "habitName": "Counted calories",
+                "frequency": 7
+            },
+            {
+                "habitName": "Protein intake",
+                "frequency": 5
+            },
+            {
+                "habitName": "Cardio",
+                "frequency": 3
+            }
+        ]
+    },
+    {
+        "lifeStyleType": "Mindful",
+        "LifeStyleHabits": [
+            {
+                "habitName": "Meditation",
+                "frequency": 5
+            },
+            {
+                "habitName": "Journaling",
+                "frequency": 5
+            },
+            {
+                "habitName": "Yoga",
+                "frequency": 4
+            },
+            {
+                "habitName": "Nature break",
+                "frequency": 4
+            }
+        ]
+    },
+    {
+        "lifeStyleType": "Knowledge seeking",
+        "LifeStyleHabits": [
+            {
+                "habitName": "Read chapter",
+                "frequency": 7
+            },
+            {
+                "habitName": "Learn something new",
+                "frequency": 7
+            },
+            {
+                "habitName": "Attend seminar",
+                "frequency": 1
+            },
+            {
+                "habitName": "Intellectual conversation",
+                "frequency": 3
+            }
+        ]
+    },
+    {
+        "lifeStyleType": "Social",
+        "LifeStyleHabits": [
+            {
+                "habitName": "Talk to a stranger",
+                "frequency": 7
+            },
+            {
+                "habitName": "Hang out with friends",
+                "frequency": 3
+            },
+            {
+                "habitName": "Help a stranger",
+                "frequency": 1
+            },
+            {
+                "habitName": "Message a friend",
+                "frequency": 7
+            }
+        ]
+    }
+]
